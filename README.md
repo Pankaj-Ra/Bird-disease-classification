@@ -125,11 +125,11 @@ open up you local host and port
 
     AWS_SECRET_ACCESS_KEY= 
 
-    AWS_REGION = us-east-1
+    AWS_REGION = ap-south-1
 
-    AWS_ECR_LOGIN_URI = demo>>  
+    AWS_ECR_LOGIN_URI = 275234131660.dkr.ecr.ap-south-1.amazonaws.com
 
-    ECR_REPOSITORY_NAME = simple-app
+    ECR_REPOSITORY_NAME = cnn_classifier
 
 
 

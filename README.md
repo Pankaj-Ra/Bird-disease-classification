@@ -138,16 +138,16 @@ open up you local host and port
 
 ## Save pass:
 
-
+yVz0nF/kF8XjS/rrnO98KLe0SHzl0afXRxToZq/qlW+ACRCHhh/7
 
 
 ## Run from terminal:
 
-docker build -t 
+docker build -t cnnclassifier.azurecr.io/cnncls:latest .
 
-docker login 
+docker login cnnclassifier.azurecr.io
 
-docker push 
+docker push cnnclassifier.azurecr.io/cnncls:latest
 
 
 ## Deployment Steps:
